@@ -87,15 +87,16 @@ p {
 	}
 
 	h1 {
-		font-size: 30px;
+		font-size: 27px;
 		text-align: center;
 	} 
 
 	p {
 		text-align: center; 
+		font-size: 13px;
 	}
 	.datos {
 		flex-direction: column; align-items: center;
-		text-align: center; row-gap: 20px;
+		text-align: center; row-gap: 16px;
 	}
 }
